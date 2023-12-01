@@ -3,11 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="云开产品文档"
-                 start-page="产品列表.md">
-    <toc-element topic="产品列表.md">
-        <toc-element topic="云开壁纸.md"/>
-        <toc-element topic="云开新标签页.md"/>
-        <toc-element topic="云开诗词新标签页.md"/>
+                 start-page="ProductList.md">
+    <toc-element topic="ProductList.md">
+        <toc-element topic="SkyWallpaper.md"/>
+        <toc-element topic="SkyNewTab.md"/>
+        <toc-element topic="SkyNewTabPoem.md"/>
     </toc-element>
-    <toc-element topic="关于作者.md"/>
+    <toc-element topic="About.md"/>
 </instance-profile>
