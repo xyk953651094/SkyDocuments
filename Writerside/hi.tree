@@ -2,9 +2,10 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="云开产品文档"
+<instance-profile id="hi" name="云开帮助文档"
                  start-page="ProductList.md">
     <toc-element topic="ProductList.md">
+        <toc-element topic="SkyDocuments.md"/>
         <toc-element topic="SkyWallpaper.md"/>
         <toc-element topic="SkyNewTab.md"/>
         <toc-element topic="SkyNewTabPoem.md"/>
