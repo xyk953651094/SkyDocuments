@@ -1,28 +1,13 @@
 # 云开新标签页
 
-## 简介
-* 适用于 Chrome、Edge、Firefox、Safari 的新标签页插件
-* 支持语言：中文
-* 日历来源：https://www.mxnzp.com/
-* 天气来源：https://www.jinrishici.com/
-* 图片来源：https://unsplash.com/
-* 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport)
-* 产品声明：图片由第三方网站提供，内容不代表作者任何观点
-
 ## 主页
+* 注意：本人以学习为目的开发本产品，因此存在两个不同版本，其中 React + AntDesign 为 FireFox 的上架版本
 ### 云开新标签页（React + AntDesign）
 * [GitHub 主页](https://github.com/xyk953651094/SkyNewTab-React "跳转至 GitHub 主页")
 * [Gitlab 主页](https://gitlab.com/xyk953651094/SkyNewTab-React "跳转至 GitLab 主页")
 ### 云开新标签页（Vue + ArcoDesign）
 * [GitHub 主页](https://github.com/xyk953651094/SkyNewTab-Vue "跳转至 GitHub 主页")
 * [GitLab 主页](https://gitlab.com/xyk953651094/SkyNewTab-Vue "跳转至 GitLab 主页")
-* 注意：本人以学习为目的开发本产品，因此存在两个不同版本，其中 React + AntDesign 为 FireFox 的上架版本
-
-## 安装
-* Chrome、Edge、FireFox：前往插件商店直接搜索安装（推荐）
-* Safari：由于成本原因，暂不提供安装方式
-* 其他浏览器（Brave、Avast、Whale、Opera、WaterFox等）：前往 Chrome 插件商店或 FireFox 插件商店搜索安装（推荐），或者前往 Releases 页面自行下载安装
-* 注意：由于 Edge 的插件审核周期过长（一般超过7天），因此 Edge 更新时间一般晚于 Chrome 和 Firefox
 
 ## 指南
 * 新的主题刷新后可能不会立即生效，请耐心等待

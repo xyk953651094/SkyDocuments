@@ -1,20 +1,8 @@
 # 云开壁纸
 
-## 简介
-* 适用于 Windows、MacOS 的壁纸软件
-* 基于 Html + Typescript + CSS + React + Webpack + Electron + Semi Design
-* 支持语言：中文
-* 图片来源：https://unsplash.com（图片中的内容不代表作者任何观点）
-* 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
-* 使用须知：本作品由作者个人出于学习目的开发，由于成本原因，难以保证不同型号设备下的最终品质，后续尽量完善
-
 ## 主页
 * [GitHub 主页](https://github.com/xyk953651094/SkyWallpaper-Electron "跳转至 GitHub 主页")
 * [Gitlab 主页](https://gitlab.com/xyk953651094/SkyWallpaper-Electron "跳转至 GitLab 主页")
-
-## 安装
-* 正在开发中，敬请期待
-* ~~前往 Releases 页面自行下载安装~~
 
 ## 指南
 * 新的主题刷新后可能不会立即生效，请耐心等待
