@@ -6,6 +6,7 @@
 
 ## 前往
 * [GitHub Pages](https://xyk953651094.github.io/SkyDocuments/)
+* [GitLab Pages](https://xyk953651094.gitlab.io/SkyDocuments/)
 
 ## 展示
 <img width="1440" alt="截屏2023-12-01 22 27 38" src="https://github.com/xyk953651094/SkyDocuments/assets/28004442/302c0801-c130-470d-a09c-fe815de4fb60">
