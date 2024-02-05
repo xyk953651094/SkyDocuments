@@ -61,3 +61,10 @@
 答：目前已支持 Safari，但无力支付苹果开发者账号费用，因此暂时没有发布 Safari 版的计划
 #### 插件会发布移动端吗？
 答：目前已支持移动端，但使用体验未达预期，以及缺少测试设备，因此暂时没有发布移动端的计划
+
+## 捐助
+* 如果您喜欢我的作品，请考虑捐助。
+* 注意：捐助是无偿的，但这可以为我提供更大的创作动力。
+* 爱发电：https://afdian.net/a/xyk953651094
+* <img width="300" alt="爱发电" src="https://github.com/xyk953651094/SkyNewTab-React/assets/28004442/7766955b-46fe-490f-aadb-55099ce4f6fc">
+* <img width="300" alt="微信赞赏码" src="https://github.com/xyk953651094/SkyNewTab-React/assets/28004442/6b7c2305-753c-4841-9031-106f39683494">
