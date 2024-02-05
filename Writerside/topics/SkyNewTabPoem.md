@@ -1,19 +1,17 @@
 # 云开诗词新标签页
 
 ## 捐助
-* 如果您喜欢我的作品，请考虑捐助
-* 注意：捐助是无偿的，但这可以为我提供更大的创作动力
-* [爱发电（支持微信赞赏码）](https://afdian.net/a/xyk953651094 "跳转至爱发电")
+* 如果您喜欢我的作品，请考虑捐助。注意：捐助是无偿的，但这可以为我提供更大的创作动力
+* [爱发电](https://afdian.net/a/xyk953651094 "跳转至爱发电")
 
 ## 简介
-* 适用于 Chrome、Edge、Firefox、Safari 的新标签页插件，定期展示不同诗词，并提供日历、天气、倒数日、待办事项、专注模式等实用功能
+* 适用于 Chrome、Edge、Firefox、Safari 的新标签页插件，定期展示不同诗词，并提供日历、天气、倒数日、待办事项、专注模式、快捷链接等实用功能
 * 支持语言：中文
 * 所需权限：tabs、storage（专注模式）
 * 节气来源：[https://www.mxnzp.com](https://www.mxnzp.com)
 * 天气来源：[https://www.jinrishici.com](https://www.jinrishici.com)
 * 诗词来源：[https://www.jinrishici.com](https://www.jinrishici.com)（诗词中的内容不代表作者任何观点）
 * 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
-* 使用须知：本作品由作者个人出于学习目的开发，由于成本原因，难以保证不同型号设备下的最终品质，后续尽量完善
 
 ## 主页
 ### 云开诗词新标签页（React + AntDesign）
