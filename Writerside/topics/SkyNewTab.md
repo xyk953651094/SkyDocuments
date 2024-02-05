@@ -12,7 +12,6 @@
 * 天气来源：[https://www.jinrishici.com](https://www.jinrishici.com)
 * 图片来源：[https://unsplash.com](https://unsplash.com)（图片中的内容不代表作者任何观点）
 * 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
-* 使用须知：本作品由作者个人出于学习目的开发，由于成本原因，难以保证不同型号设备下的最终品质，后续尽量完善
 
 ## 主页
 ### 云开新标签页（React + AntDesign）
