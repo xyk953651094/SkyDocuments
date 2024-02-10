@@ -1,7 +1,7 @@
 # 云开诗词新标签页
 
 ## 简介
-* 适用于 Chrome、Edge、Firefox、~~Safari~~ 的新标签页插件，定期展示不同诗词，并提供日历、天气、倒数日、待办事项、专注模式、快捷链接等实用功能
+* 适用于 Chrome、Edge、Firefox、Safari 的新标签页插件，定期展示不同诗词，并提供日历、天气、倒数日、待办事项、专注模式、快捷链接等实用功能
 * 支持语言：中文
 * 所需权限：tabs、storage（专注模式）
 * 日历来源：[https://www.mxnzp.com](https://www.mxnzp.com)
