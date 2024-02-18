@@ -1,23 +1,29 @@
 # 云开新标签页
 
 ## 简介
-* 适用于 Chrome、Edge、Firefox、Safari 的新标签页插件，定期展示不同的高质量图片，并提供日历、天气、倒数日、待办事项、专注模式、快速链接等实用功能
+* 在新标签页随机展示不同的精美图片，并提供日历、天气、倒数日、待办事项、专注模式、白噪音、快速链接等实用功能
 * 支持语言：中文
 * 所需权限：tabs、storage（专注模式）
 * 日历来源：[https://www.mxnzp.com](https://www.mxnzp.com)
 * 天气来源：[https://www.jinrishici.com](https://www.jinrishici.com)
+* 噪音来源：[https://www.soundvery.com/](https://www.soundvery.com)
 * 图片来源：[https://unsplash.com](https://unsplash.com)（图片中的内容不代表作者任何观点）
 * 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
+
+## 捐助
+* 如果您喜欢我的作品，请考虑捐助。注意：捐助是自愿且无偿的，但这可以为我提供更大的创作动力
+* 若无意捐助，也可在各插件商店五星好评或者在 Github、GitLab 添加星标支持一下
+* [爱发电](https://afdian.net/a/xyk953651094 "跳转至爱发电")
 
 ## 主页
 ### 云开新标签页（React + AntDesign）
 * [GitHub 主页](https://github.com/xyk953651094/SkyNewTab-React "跳转至 GitHub 主页")
 * [Gitlab 主页](https://gitlab.com/xyk953651094/SkyNewTab-React "跳转至 GitLab 主页")
-* 已上架至 Chrome、Edge、Firefox
+* 已上架至 Chrome、Edge、Firefox、~~Safari~~
 ### 云开新标签页（Vue + ArcoDesign）
 * [GitHub 主页](https://github.com/xyk953651094/SkyNewTab-Vue "跳转至 GitHub 主页")
 * [GitLab 主页](https://gitlab.com/xyk953651094/SkyNewTab-Vue "跳转至 GitLab 主页")
-* 已上架至 Chrome、Edge
+* 已上架至 Chrome、Edge、~~Firefox~~、~~Safari~~
 
 ## 指南
 #### 图片主题
@@ -33,7 +39,7 @@
 * 若 “重置设置” 无法解决问题，尝试 “重置插件” 按钮。注意 “重置插件” 将清空插件所有数据并恢复初始状态
 * 若 “重置插件” 无法解决问题，尝试清空浏览器缓存
 * 若清空浏览器缓存无法解决问题，尝试卸载后重新安装本插件
-* 若问题无法解决，尝试插件菜单栏中的 “联系作者”、在插件商店发布评论，或者在 GitHub 上反馈
+* 若问题无法解决，尝试菜单栏中的 “联系作者”，或者在 GitHub 上新建 Issue 进行反馈
 
 ## 问题
 #### 为什么此插件需要 Storage、Tabs 权限？
@@ -60,8 +66,3 @@
 答：目前已支持 Safari（iOS、iPadOS、MacOS），但苹果开发者账号费用较高，因此暂时没有发布 Safari 版的计划
 #### 插件会发布移动端吗？
 答：目前已支持移动端（Android Firefox、iOS Safari），但使用体验未达预期，因此暂时没有发布移动端的计划
-
-## 捐助
-* 如果您喜欢我的作品，请考虑捐助。注意：捐助是自愿且无偿的，但这可以为我提供更大的创作动力
-* 若无意捐助，也可在各插件商店五星好评或者在 Github、GitLab 添加星标支持一下
-* [爱发电](https://afdian.net/a/xyk953651094 "跳转至爱发电")
