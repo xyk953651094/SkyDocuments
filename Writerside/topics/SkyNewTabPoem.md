@@ -7,7 +7,9 @@
 * 日历来源：[https://www.mxnzp.com](https://www.mxnzp.com)
 * 天气来源：[https://www.jinrishici.com](https://www.jinrishici.com)
 * 噪音来源：[https://www.soundvery.com/](https://www.soundvery.com)
-* 诗词来源：[https://www.jinrishici.com](https://www.jinrishici.com)（诗词中的内容不代表作者任何观点）
+* 诗词来源：
+  * [http://gushi.ci](http://gushi.ci)（诗词中的内容不代表作者任何观点）
+  * [https://www.jinrishici.com](https://www.jinrishici.com)（诗词中的内容不代表作者任何观点）
 * 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
 
 ## 捐助
@@ -30,6 +32,8 @@
 * 新的诗词主题刷新后不会立即生效，必须等到下一个切换间隔才会生效
 * 启用智能主题时不能使用诗词主题
 * 禁用智能主题时才能使用诗词主题
+* 诗词主题使用今日诗词 API V1（古诗词 · 一言 API），随机性更高
+* 智能主题使用今日诗词 API V2，相关性更高
 #### 自定诗词
 * 自定诗词可用于显示用户自行输入的文字
 * 点击作者按钮即可使用自定诗词功能。若想关闭自定诗词，再次点击作者按钮，在弹出窗口中点击的“关闭自定诗词”按钮即可
