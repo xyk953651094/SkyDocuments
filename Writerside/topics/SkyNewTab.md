@@ -75,4 +75,4 @@
 #### 插件会发布 Safari 版吗？
 答：目前已支持 Safari（iOS、iPadOS、MacOS），但苹果开发者账号费用较高，因此暂时没有发布 Safari 版的计划
 #### 插件会发布移动端吗？
-答：目前已支持移动端（Android Firefox、iOS Safari），但使用体验未达预期，因此暂时没有发布移动端的计划
+答：目前已支持移动端（Android Firefox、iOS Safari、iPadOS Safari），但使用体验未达预期，因此暂时没有发布移动端的计划
