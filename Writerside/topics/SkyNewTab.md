@@ -2,7 +2,7 @@
 
 ## 简介
 * 在新标签页随机展示不同的精美图片，并提供日历、天气、倒数日、待办事项、专注模式、白噪音、快速链接等实用功能
-* 支持语言：中文
+* 支持语言：简体中文
 * 所需权限：tabs、storage（专注模式）
 * 日历来源：[https://www.mxnzp.com](https://www.mxnzp.com)
 * 天气来源：[https://www.jinrishici.com](https://www.jinrishici.com)
@@ -76,3 +76,5 @@
 答：目前已支持 Safari（iOS、iPadOS、MacOS），但苹果开发者账号费用较高，因此暂时没有发布 Safari 版的计划
 #### 插件会发布移动端吗？
 答：目前已支持移动端（Android Firefox、iOS Safari、iPadOS Safari），但使用体验未达预期，因此暂时没有发布移动端的计划
+#### 除简体中文外，会支持其他语言吗？
+答：暂时没有支持其他语言的计划
