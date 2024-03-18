@@ -2,7 +2,7 @@
 
 ## 主页
 * [GitHub 主页](https://github.com/xyk953651094/SkyWallpaper-Electron "跳转至 GitHub 主页")
-* [Gitlab 主页](https://gitlab.com/xyk953651094/SkyWallpaper-Electron "跳转至 GitLab 主页")
+* [GitLab 主页](https://gitlab.com/xyk953651094/SkyWallpaper-Electron "跳转至 GitLab 主页")
 * 开发中，敬请期待
 
 ## 捐助

@@ -1,11 +1,11 @@
 # 云开帮助文档（本产品）
 
 ## 主页
-* [GitHub 主页](https://github.com/xyk953651094/SkyDocuments/ "跳转至 GitHub 主页")
-* [GitLab 主页](https://gitlab.com/xyk953651094/SkyDocuments/ "跳转至 GitLab 主页")
+* [GitHub 主页](https://github.com/xyk953651094/SkyDocuments "跳转至 GitHub 主页")
+* [GitLab 主页](https://gitlab.com/xyk953651094/SkyDocuments "跳转至 GitLab 主页")
 * 已部署在
-  * [GitHub Pages](https://xyk953651094.github.io/SkyDocuments/ "跳转至 GitHub Pages")
-  * [GitLab Pages](https://xyk953651094.gitlab.io/SkyDocuments/ "跳转至 GitLab Pages")
+  * [GitHub Pages](https://xyk953651094.github.io/SkyDocuments "跳转至 GitHub Pages")
+  * [GitLab Pages](https://xyk953651094.gitlab.io/SkyDocuments "跳转至 GitLab Pages")
 
 ## 捐助
 * 如果您喜欢我的作品，请考虑捐助。注意：捐助是自愿且无偿的，但这可以为我提供更大的创作动力
