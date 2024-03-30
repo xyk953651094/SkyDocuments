@@ -10,11 +10,6 @@
 * 图片来源：[https://unsplash.com](https://unsplash.com)（图片中的内容不代表作者任何观点）
 * 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
 
-## 捐助
-* 如果您喜欢我的作品，请考虑捐助。注意：捐助是自愿且无偿的，但这可以为我提供更大的创作动力
-* 若无意捐助，也可在各插件商店五星好评或者在 Github、GitLab 添加星标支持一下
-* [爱发电](https://afdian.net/a/xyk953651094 "跳转至爱发电")
-
 ## 主页
 ### 云开新标签页（React + AntDesign）
 * [GitHub 主页](https://github.com/xyk953651094/SkyNewTab-React "跳转至 GitHub 主页")
@@ -78,3 +73,8 @@
 答：目前已支持移动端（Android Firefox、iOS Safari、iPadOS Safari），但使用体验未达预期，因此暂时没有发布移动端的计划
 #### 除简体中文外，会支持其他语言吗？
 答：暂时没有支持其他语言的计划
+
+## 捐助
+* 如果您喜欢我的作品，请考虑捐助。注意：捐助是自愿且无偿的，但这可以为我提供更大的创作动力
+* 若无意捐助，也可在各插件商店五星好评或者在 Github、GitLab 添加星标支持一下
+* [爱发电](https://afdian.net/a/xyk953651094 "跳转至爱发电")
