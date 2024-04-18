@@ -10,6 +10,7 @@
         <toc-element topic="SkyNewTab.md"/>
         <toc-element topic="SkyNewTabPoem.md"/>
     </toc-element>
+    <toc-element topic="Report.md"/>
     <toc-element topic="Support.md"/>
     <toc-element topic="About.md"/>
 </instance-profile>
