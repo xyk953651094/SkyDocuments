@@ -11,7 +11,12 @@
 * 启用自定主题时不能使用图片主题
 * 禁用自定主题时才能使用图片主题
 * 图片来源于第三方网站，内容不代表作者任何观点，本插件已将 API 过滤等级设为最高，如仍旧出现不合适内容，可自行前往图片主页进行反馈
-#### 异常处理
+#### Unsplash Access Key
+* Unsplash Access Key 是使用 Unsplash API 获取图片的重要前提，但是存在流量限制
+* 本插件使用的 Unsplash Access Key 由所有用户共享，因此当短时间内访问 Unsplash API 次数过多时会出现获取图片失败的情况
+* 用户使用自己的 Unsplash Access Key 可以有效缓解以上问题
+* 可参考《[使用 Shortcut 自动更换 Unsplash 的壁纸](https://ios.sspai.com/post/71295#!)》中的指南获取自己的 Unsplash Access Key
+#### 异常处理 ★★★
 * 软件出现任何异常可尝试“清除缓存”按钮，注意”清除缓存“将清空缓存恢复初始设置
 * 最后，请参考[建议反馈](Report.md "前往建议反馈")将遇到的问题进行反馈，感谢您的支持
 

@@ -37,6 +37,11 @@
 * 播放白噪音时请不要随意关闭、刷新页面，否则白噪音会停止播放
 * 若专注模式未成功拦截网站，尝试清空黑名单并重新添加，若无法解决问题，尝试菜单栏中的 “重置插件” 或者卸载后重新安装本插件
 * 如果出现其它异常，请参考下方的异常处理
+#### Unsplash Access Key
+* Unsplash Access Key 是使用 Unsplash API 获取图片的重要前提，但是存在流量限制
+* 本插件使用的 Unsplash Access Key 由所有用户共享，因此当短时间内访问 Unsplash API 次数过多时会出现获取图片失败的情况
+* 用户使用自己的 Unsplash Access Key 可以有效缓解以上问题
+* 可参考《[使用 Shortcut 自动更换 Unsplash 的壁纸](https://ios.sspai.com/post/71295#!)》中的指南获取自己的 Unsplash Access Key
 #### 数据管理
 * 请不要修改导出文件的内容
 * 如果操作不当修改了导出文件的内容，请不要将其导入插件，否则可能导致数据丢失甚至插件异常
