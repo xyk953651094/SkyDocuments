@@ -3,4 +3,3 @@
 * GitLab：[https://gitlab.com/xyk953651094](https://gitlab.com/xyk953651094)
 * Blogger：[https://xyk953651094.blogspot.com](https://xyk953651094.blogspot.com)
 * 微信公众号：xyk953651094gzh
-* 爱发电：https://afdian.net/a/xyk953651094
