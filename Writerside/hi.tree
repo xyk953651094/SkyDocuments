@@ -6,6 +6,8 @@
                  start-page="ProductList.md">
     <toc-element topic="ProductList.md">
         <toc-element topic="SkyDocuments.md"/>
+        <toc-element topic="SkyImageNewTab.md"/>
+        <toc-element topic="SkyPoemNewTab.md"/>
         <toc-element topic="SkyWallpaper.md"/>
         <toc-element topic="SkyNewTab.md"/>
         <toc-element topic="SkyNewTabPoem.md"/>
