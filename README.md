@@ -2,7 +2,6 @@
 ## 简介
 * 个人作品的简介与使用指南
 * 支持语言：中文
-* 开发支持：[JetBrains Open Source Support](https://jb.gg/OpenSourceSupport "跳转至 JetBrains Open Source Support")
 
 ## 前往
 * [GitHub Pages](https://xyk953651094.github.io/SkyDocuments/)
