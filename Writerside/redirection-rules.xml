@@ -7,11 +7,11 @@
     </rule>
     -->
     <rule id="5a545eb2">
-        <description>Created after removal of "云开新标签页" from 云开文档</description>
+        <description>Created after removal of "云开新标签页" from 云开帮助文档</description>
         <accepts>产品介绍.html</accepts>
     </rule>
     <rule id="4ee5689c">
-        <description>Created after removal of "测试" from 云开文档</description>
+        <description>Created after removal of "测试" from 云开帮助文档</description>
         <accepts>测试.html</accepts>
     </rule>
 </rules>
