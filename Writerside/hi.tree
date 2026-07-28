@@ -8,8 +8,8 @@
         <toc-element topic="SkyDocuments.md"/>
         <toc-element topic="SkyImageNewTab.md"/>
         <toc-element topic="SkyPoemNewTab.md"/>
-        <toc-element topic="SkyNewTab.md"/>
-        <toc-element topic="SkyNewTabPoem.md"/>
+        <toc-element topic="SkyNewTab(Legacy).md"/>
+        <toc-element topic="SkyNewTabPoem(Legacy).md"/>
     </toc-element>
     <toc-element topic="Report.md"/>
     <toc-element topic="About.md"/>

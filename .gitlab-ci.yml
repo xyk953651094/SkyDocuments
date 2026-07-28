@@ -31,7 +31,7 @@ build:
 # Add the job below if you want to fail the build when documentation contains errors.
 test:
   stage: test
-  image: openjdk:18-jdk-alpine
+  image: eclipse-temurin:18-jdk-alpine
   before_script:
     - apk add curl
   script:
