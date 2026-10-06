@@ -8,7 +8,7 @@
 * 声明：图片来自第三方网站，内容不代表本人的观点，本插件已将过滤等级设为最高，如仍旧出现不适内容，请前往 [Unsplash](https://unsplash.com) 反馈
 
 ## 数据来源
-* 图片来源：[Unsplash](https://unsplash.com)
+* 图片来源：https://unsplash.com
 * 日历来源：https://www.mxnzp.com
 * 天气来源：https://v2.jinrishici.com/info
 
